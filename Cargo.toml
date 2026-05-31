@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Environment-as-teacher layer — affordances that guide agent behavior through walls, not instructions"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-affordance"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
